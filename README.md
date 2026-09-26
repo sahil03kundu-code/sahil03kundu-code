@@ -1,4 +1,3 @@
-[README (4).md](https://github.com/user-attachments/files/32689340/README.4.md)
 <!-- Animated wave banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:274472,100:2E8B57&height=200&section=header&text=Hi,%20I'm%20Sahil%20(Rick)%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AIML%20%40%20Techno%20India%20University&descAlignY=58&descSize=18" width="100%"/>
