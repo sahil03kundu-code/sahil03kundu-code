@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/32689059/README.2.md)
+[README (3).md](https://github.com/user-attachments/files/32689153/README.3.md)
 
 <!-- Animated wave banner -->
 <p align="center">
@@ -23,12 +23,9 @@
 
 ---
 
-### 🚀 What I'm building
-- 🧠 **[AyurVaidya](https://github.com/sahil03kundu-code/AyurVaidya)** — ML system comparing Ayurvedic vs Allopathic treatment effectiveness, with a published dataset, model, and paper
-- 🎣 **[phishing-detector](https://github.com/sahil03kundu-code/phishing-detector)** — NLP-based phishing detection with explainability
-- ⚡ **[hybrid_energy_ai](https://github.com/sahil03kundu-code/hybrid_energy_ai)** — AI applied to hybrid energy systems
-- 🚁 **[ArduPilot-SITL](https://github.com/sahil03kundu-code/ArduPilot-SITL)** — drone simulation work tied to my automation internship
-- 📊 Daily ML practice — one concept, one real dataset, every day, posted publicly
+### 🚀 My Projects (auto-updated daily)
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
 ### 🛠️ Tech Stack
 <p align="center">
