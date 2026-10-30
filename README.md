@@ -49,20 +49,11 @@ people can actually use, not stopping at a trained model.
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sahil03kundu-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil03kundu-code&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil03kundu-code&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahil03kundu-code&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=1&column=6"/>
 </div>
 
 <br/>
